@@ -9,7 +9,6 @@
     "build": "webpack-cli --watch --devtool cheap-module-source-map"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.3",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/plugin-proposal-decorators": "^7.4.0",

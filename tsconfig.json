@@ -4,7 +4,6 @@
     "moduleResolution": "node",
     "noEmit": true,
     "strict": true,
-    "isolatedModules": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "experimentalDecorators": true
