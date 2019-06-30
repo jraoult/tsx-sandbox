@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --content-base static --watch-content-base --devtool cheap-module-source-map --disable-host-check --host 0.0.0.0 --port ${PORT:-1234}",
-    "build": "webpack-cli --watch --devtool cheap-module-source-map"
+    "build": "webpack-cli --devtool cheap-module-source-map",
+    "test": "yarn build"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
