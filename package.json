@@ -29,7 +29,7 @@
   "dependencies": {
     "mobx": "^5.13.1",
     "mobx-utils": "^5.4.1",
-    "react": "^16.10.1",
+    "react": "^16.10.2",
     "react-dom": "^16.10.1"
   }
 }
