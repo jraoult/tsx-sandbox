@@ -27,7 +27,7 @@
     "webpack-dev-server": "^3.8.1"
   },
   "dependencies": {
-    "mobx": "^5.13.1",
+    "mobx": "^5.14.0",
     "mobx-utils": "^5.4.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.1"
