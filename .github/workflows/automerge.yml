@@ -27,3 +27,4 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           UPDATE_METHOD: "rebase"
           MERGE_FILTER_AUTHOR: "dependabot"
+          MERGE_LABELS: ""
