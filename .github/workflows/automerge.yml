@@ -1,29 +1,24 @@
-name: automerge
+name: Merge me!
+
 on:
-  pull_request:
-    types:
-      - labeled
-      - unlabeled
-      - synchronize
-      - opened
-      - edited
-      - ready_for_review
-      - reopened
-      - unlocked
-  pull_request_review:
-    types:
-      - submitted
   check_suite:
     types:
       - completed
-  status: {}
+  pull_request:
+    types:
+      - edited
+      - labeled
+      - opened
+      - ready_for_review
+      - reopened
+      - synchronize
+      - unlabeled
+      - unlocked
 jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - name: Merge pull requests
-        uses: pascalgn/automerge-action@v0.8.4
+      - name: Merge me!
+        uses: ridedott/merge-me-action@master
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          UPDATE_METHOD: "rebase"
-          MERGE_FILTER_AUTHOR: "dependabot"
