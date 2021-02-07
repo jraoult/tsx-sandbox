@@ -7,7 +7,7 @@ module.exports = {
       },
     ],
     ["@babel/preset-typescript"],
-    "@babel/preset-react",
+    ["@babel/preset-react", { runtime: "automatic" }],
   ],
   plugins: [
     // We force this plugin since for webpack 4's acorn can not parse optional
