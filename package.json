@@ -29,7 +29,7 @@
     "webpack-dev-server": "3.11.2"
   },
   "dependencies": {
-    "mobx": "6.1.5",
+    "mobx": "6.1.6",
     "mobx-react": "7.1.0",
     "mobx-utils": "6.0.3",
     "react": "17.0.1",
