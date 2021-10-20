@@ -30,7 +30,7 @@
     "webpack-dev-server": "4.3.1"
   },
   "dependencies": {
-    "@emotion/react": "11.4.1",
+    "@emotion/react": "11.5.0",
     "mobx": "6.3.3",
     "mobx-react": "7.2.0",
     "mobx-utils": "6.0.4",
