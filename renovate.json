@@ -1,5 +1,9 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "dependencyDashboard": true,
+  "automerge": true,
+  "stabilityDays": 3,
+  "labels": ["dependencies"]
 }
