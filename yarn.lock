@@ -2169,7 +2169,7 @@ __metadata:
     react: 17.0.2
     react-dom: 17.0.2
     typescript: 4.5.4
-    vite: 2.7.10
+    vite: 2.7.12
   languageName: unknown
   linkType: soft
 
@@ -2218,9 +2218,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:2.7.10":
-  version: 2.7.10
-  resolution: "vite@npm:2.7.10"
+"vite@npm:2.7.12":
+  version: 2.7.12
+  resolution: "vite@npm:2.7.12"
   dependencies:
     esbuild: ^0.13.12
     fsevents: ~2.3.2
@@ -2243,7 +2243,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 1757108547ca34bd01a8ee3973cb04b484492c9e5690fc75f54bbcbde5965ab6e0a5b8355c336adf0a9117aa0fdae3053af3aafa9e5eb783282fffa948cfbe11
+  checksum: 56d62ae8131b02891f2dbd81f26a3ca28a02bfe390f9cb4e0c2d8dc831c2e2f8264dd3c45b14c7dd48e79d83d323a35148f92729e1f3385fae04fcd691f3f985
   languageName: node
   linkType: hard
 
