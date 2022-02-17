@@ -1701,9 +1701,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-react-lite@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "mobx-react-lite@npm:3.2.0"
+"mobx-react-lite@npm:^3.3.0":
+  version: 3.3.0
+  resolution: "mobx-react-lite@npm:3.3.0"
   peerDependencies:
     mobx: ^6.1.0
     react: ^16.8.0 || ^17
@@ -1712,15 +1712,15 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 595b5fcb9e9999d9b1d68200f27b0da073eddf1965df75a9cdd447e5c710b9486f684110c1b5f75830c485879203375d5fc4c1194cf219d8cdbfd0fa1d3694e0
+  checksum: 0f55bd2009a9cedc6b81d70b88b57dc4161362a16ba6ae0af341e673ca1c627bc3c4088c0cb13133e57e6fa6748b09b4c26aff7fab26c60ed95d27e939846fa3
   languageName: node
   linkType: hard
 
-"mobx-react@npm:7.2.1":
-  version: 7.2.1
-  resolution: "mobx-react@npm:7.2.1"
+"mobx-react@npm:7.3.0":
+  version: 7.3.0
+  resolution: "mobx-react@npm:7.3.0"
   dependencies:
-    mobx-react-lite: ^3.2.0
+    mobx-react-lite: ^3.3.0
   peerDependencies:
     mobx: ^6.1.0
     react: ^16.8.0 || ^17
@@ -1729,7 +1729,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: ddcdab16ce0977dd8e0b9d324f43c0ef5d9de491b4ad881eaf18f127a967e88d916fd580597decc2eac6617f30f444bdf620be540e487194e3391738b2c3b7b2
+  checksum: 4a53fd45994bfc6d6bcf24072a651f09c15b7afa0f1d0040b92058e6aa55ef0c3a5176986e616a7e791ea0c24561f8c75a964cb08cfe3a1025c550b8a890799a
   languageName: node
   linkType: hard
 
@@ -2286,7 +2286,7 @@ __metadata:
     "@types/react-dom": 17.0.11
     "@vitejs/plugin-react": 1.2.0
     mobx: 6.3.13
-    mobx-react: 7.2.1
+    mobx-react: 7.3.0
     mobx-utils: 6.0.4
     prettier: 2.5.1
     react: 17.0.2
