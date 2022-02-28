@@ -1770,10 +1770,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx@npm:6.4.1":
-  version: 6.4.1
-  resolution: "mobx@npm:6.4.1"
-  checksum: 97412485e716dd286fe41645c26d99b09d403b60fdade5757d26e18c2e1a723da2afc9b7d0f7161457be812075a90839d998c9bf6af88f01cd92dbab16a484c3
+"mobx@npm:6.4.2":
+  version: 6.4.2
+  resolution: "mobx@npm:6.4.2"
+  checksum: 2cdb0b81ab7fa6209d29a57af0c8c1c4635756f4b93a872be8686d58abcc562a4172f3bd8551c3432322f02cc5a6434daced10e5665d73a533e4099416dd3435
   languageName: node
   linkType: hard
 
@@ -2313,7 +2313,7 @@ __metadata:
     "@types/react": 17.0.39
     "@types/react-dom": 17.0.11
     "@vitejs/plugin-react": 1.2.0
-    mobx: 6.4.1
+    mobx: 6.4.2
     mobx-react: 7.3.0
     mobx-utils: 6.0.4
     prettier: 2.5.1
