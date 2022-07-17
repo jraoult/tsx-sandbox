@@ -1,5 +1,5 @@
 import { css, Global } from "@emotion/react";
-import { render } from "react-dom";
+import { createRoot } from "react-dom/client";
 
 const App = () => (
   <>
@@ -44,4 +44,4 @@ const App = () => (
   </>
 );
 
-render(<App />, document.querySelector("#app-root"));
+createRoot(document.getElementById("app-root")!).render(<App />);
