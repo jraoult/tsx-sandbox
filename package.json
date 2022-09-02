@@ -17,7 +17,7 @@
     "vite": "3.0.9"
   },
   "dependencies": {
-    "@emotion/react": "11.10.0",
+    "@emotion/react": "11.10.4",
     "mobx": "6.6.1",
     "mobx-react": "7.5.2",
     "mobx-utils": "6.0.5",
