@@ -8,7 +8,7 @@
     "test": "yarn build"
   },
   "devDependencies": {
-    "@emotion/babel-plugin": "11.10.2",
+    "@emotion/babel-plugin": "11.10.5",
     "@types/react": "18.0.23",
     "@types/react-dom": "18.0.7",
     "@vitejs/plugin-react": "2.2.0",
@@ -17,7 +17,7 @@
     "vite": "3.2.0"
   },
   "dependencies": {
-    "@emotion/react": "11.10.4",
+    "@emotion/react": "11.10.5",
     "mobx": "6.6.2",
     "mobx-react": "7.5.3",
     "mobx-utils": "6.0.5",
