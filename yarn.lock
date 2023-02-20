@@ -23,13 +23,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-plugin-utils@npm:^7.18.6":
-  version: 7.18.6
-  resolution: "@babel/helper-plugin-utils@npm:7.18.6"
-  checksum: 3dbfceb6c10fdf6c78a0e57f24e991ff8967b8a0bd45fe0314fb4a8ccf7c8ad4c3778c319a32286e7b1f63d507173df56b4e69fb31b71e1b447a73efa1ca723e
-  languageName: node
-  linkType: hard
-
 "@babel/helper-validator-identifier@npm:^7.15.7":
   version: 7.15.7
   resolution: "@babel/helper-validator-identifier@npm:7.15.7"
@@ -55,17 +48,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/plugin-syntax-jsx@npm:^7.17.12":
-  version: 7.18.6
-  resolution: "@babel/plugin-syntax-jsx@npm:7.18.6"
-  dependencies:
-    "@babel/helper-plugin-utils": ^7.18.6
-  peerDependencies:
-    "@babel/core": ^7.0.0-0
-  checksum: 6d37ea972970195f1ffe1a54745ce2ae456e0ac6145fae9aa1480f297248b262ea6ebb93010eddb86ebfacb94f57c05a1fc5d232b9a67325b09060299d515c67
-  languageName: node
-  linkType: hard
-
 "@babel/runtime@npm:^7.12.5, @babel/runtime@npm:^7.18.3":
   version: 7.18.9
   resolution: "@babel/runtime@npm:7.18.9"
@@ -85,12 +67,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/babel-plugin@npm:11.10.5, @emotion/babel-plugin@npm:^11.10.5":
-  version: 11.10.5
-  resolution: "@emotion/babel-plugin@npm:11.10.5"
+"@emotion/babel-plugin@npm:11.10.6, @emotion/babel-plugin@npm:^11.10.6":
+  version: 11.10.6
+  resolution: "@emotion/babel-plugin@npm:11.10.6"
   dependencies:
     "@babel/helper-module-imports": ^7.16.7
-    "@babel/plugin-syntax-jsx": ^7.17.12
     "@babel/runtime": ^7.18.3
     "@emotion/hash": ^0.9.0
     "@emotion/memoize": ^0.8.0
@@ -101,9 +82,7 @@ __metadata:
     find-root: ^1.1.0
     source-map: ^0.5.7
     stylis: 4.1.3
-  peerDependencies:
-    "@babel/core": ^7.0.0
-  checksum: e3353499c76c4422d6e900c0dfab73607056d9da86161a3f27c3459c193c4908050c5d252c68fcde231e13f02a9d8e0dc07d260317ae0e5206841e331cc4caae
+  checksum: 3eed138932e8edf2598352e69ad949b9db3051a4d6fcff190dacbac9aa838d7ef708b9f3e6c48660625d9311dae82d73477ae4e7a31139feef5eb001a5528421
   languageName: node
   linkType: hard
 
@@ -134,12 +113,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/react@npm:11.10.5":
-  version: 11.10.5
-  resolution: "@emotion/react@npm:11.10.5"
+"@emotion/react@npm:11.10.6":
+  version: 11.10.6
+  resolution: "@emotion/react@npm:11.10.6"
   dependencies:
     "@babel/runtime": ^7.18.3
-    "@emotion/babel-plugin": ^11.10.5
+    "@emotion/babel-plugin": ^11.10.6
     "@emotion/cache": ^11.10.5
     "@emotion/serialize": ^1.1.1
     "@emotion/use-insertion-effect-with-fallbacks": ^1.0.0
@@ -147,14 +126,11 @@ __metadata:
     "@emotion/weak-memoize": ^0.3.0
     hoist-non-react-statics: ^3.3.1
   peerDependencies:
-    "@babel/core": ^7.0.0
     react: ">=16.8.0"
   peerDependenciesMeta:
-    "@babel/core":
-      optional: true
     "@types/react":
       optional: true
-  checksum: 32b67b28e9b6d6c53b970072680697f04c2521441050bdeb19a1a7f0164af549b4dad39ff375eda1b6a3cf1cc86ba2c6fa55460ec040e6ebbca3e9ec58353cf7
+  checksum: 4762042e39126ffaffe76052dc65c9bb0ba6b8893013687ba3cc13ed4dd834c31597f1230684c3c078e90aecc13ab6cd0e3cde0dec8b7761affd2571f4d80019
   languageName: node
   linkType: hard
 
@@ -1903,8 +1879,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "tsx-sandbox@workspace:."
   dependencies:
-    "@emotion/babel-plugin": 11.10.5
-    "@emotion/react": 11.10.5
+    "@emotion/babel-plugin": 11.10.6
+    "@emotion/react": 11.10.6
     "@types/react": 18.0.28
     "@types/react-dom": 18.0.11
     "@vitejs/plugin-react-swc": 3.1.0
