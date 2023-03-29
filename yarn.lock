@@ -1394,12 +1394,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-utils@npm:6.0.5":
-  version: 6.0.5
-  resolution: "mobx-utils@npm:6.0.5"
+"mobx-utils@npm:6.0.6":
+  version: 6.0.6
+  resolution: "mobx-utils@npm:6.0.6"
   peerDependencies:
     mobx: ^6.0.0
-  checksum: 51fc38c6395d0bc852c26d7473286e53019eadba56587f8b0a8773ddd36638dc5fae9c1d044ee1da5ee799dc613bc3ae0095eae5991d305bedf3086b301f8992
+  checksum: 10d1dc8612143a49bc33380532615e052ecf68cbca20c354d5b8adcafc3a7e5181ec9bbb2360181ce7f8a191297b2d86a1bd177191fbab463c9120401b93598c
   languageName: node
   linkType: hard
 
@@ -1888,7 +1888,7 @@ __metadata:
     "@vitejs/plugin-react-swc": 3.2.0
     mobx: 6.9.0
     mobx-react: 8.0.0
-    mobx-utils: 6.0.5
+    mobx-utils: 6.0.6
     prettier: 2.8.7
     react: 18.2.0
     react-dom: 18.2.0
