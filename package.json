@@ -1,28 +1,15 @@
 {
   "name": "tsx-sandbox",
-  "version": "1.0.0",
-  "license": "MIT",
+  "packageManager": "yarn@3.5.1",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "test": "yarn build"
+    "start": "yarn workspace @tsx-sandbox/main vite",
+    "test": "yarn workspace @tsx-sandbox/main build"
   },
   "devDependencies": {
-    "@emotion/babel-plugin": "11.11.0",
-    "@types/react": "18.2.6",
-    "@types/react-dom": "18.2.4",
-    "@vitejs/plugin-react-swc": "3.3.1",
-    "prettier": "2.8.8",
-    "typescript": "5.0.4",
-    "vite": "4.3.5"
-  },
-  "dependencies": {
-    "@emotion/react": "11.11.0",
-    "mobx": "6.9.0",
-    "mobx-react": "8.0.0",
-    "mobx-utils": "6.0.6",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "packageManager": "yarn@3.5.1"
+    "prettier": "2.8.8"
+  }
 }
