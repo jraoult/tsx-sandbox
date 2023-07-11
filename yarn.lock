@@ -506,7 +506,7 @@ __metadata:
     "@vitejs/plugin-react-swc": 3.3.2
     mobx: 6.9.0
     mobx-react: 8.0.0
-    mobx-utils: 6.0.6
+    mobx-utils: 6.0.7
     react: 18.2.0
     react-dom: 18.2.0
     typescript: 5.1.6
@@ -1449,12 +1449,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-utils@npm:6.0.6":
-  version: 6.0.6
-  resolution: "mobx-utils@npm:6.0.6"
+"mobx-utils@npm:6.0.7":
+  version: 6.0.7
+  resolution: "mobx-utils@npm:6.0.7"
   peerDependencies:
     mobx: ^6.0.0
-  checksum: 10d1dc8612143a49bc33380532615e052ecf68cbca20c354d5b8adcafc3a7e5181ec9bbb2360181ce7f8a191297b2d86a1bd177191fbab463c9120401b93598c
+  checksum: 2d2fffcd26ca877193405c4c0f5622e2af73acf8d9b47e17a340f16a2bf8a872640da20e72d3ce70c3ed986ab16761fe7cd5964f379d74bdf5b1ae5f0beeaff7
   languageName: node
   linkType: hard
 
