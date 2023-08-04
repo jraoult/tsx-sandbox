@@ -13,7 +13,7 @@
     "@types/react-dom": "18.2.7",
     "@vitejs/plugin-react-swc": "3.3.2",
     "typescript": "5.1.6",
-    "vite": "4.4.7"
+    "vite": "4.4.8"
   },
   "dependencies": {
     "@emotion/react": "11.11.1",
