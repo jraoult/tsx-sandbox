@@ -504,7 +504,7 @@ __metadata:
     "@types/react": 18.2.21
     "@types/react-dom": 18.2.7
     "@vitejs/plugin-react-swc": 3.3.2
-    mobx: 6.10.1
+    mobx: 6.10.2
     mobx-react: 9.0.1
     mobx-utils: 6.0.8
     react: 18.2.0
@@ -1458,10 +1458,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx@npm:6.10.1":
-  version: 6.10.1
-  resolution: "mobx@npm:6.10.1"
-  checksum: a9920f2c311699629158576b18f5ba7bedc7d62ed6cb33aaa5b7698c27bd6f9fe1fd95675e998ae1e8afdc51eee18063435817a239758050e218b060164e4dc7
+"mobx@npm:6.10.2":
+  version: 6.10.2
+  resolution: "mobx@npm:6.10.2"
+  checksum: 14d6f1db4e3a61c823510ea130229c96bd4958b77d81057ac1abc6a439703eaf3ea2289192ef205b4250d3adb1d83a439ad56d5e53f2b967c6e62a6bccc23d8a
   languageName: node
   linkType: hard
 
