@@ -521,7 +521,7 @@ __metadata:
     "@types/react-dom": "npm:18.2.14"
     "@vitejs/plugin-react-swc": "npm:3.4.1"
     mobx: "npm:6.10.2"
-    mobx-react: "npm:9.0.1"
+    mobx-react: "npm:9.0.2"
     mobx-utils: "npm:6.0.8"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
@@ -1448,9 +1448,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-react@npm:9.0.1":
-  version: 9.0.1
-  resolution: "mobx-react@npm:9.0.1"
+"mobx-react@npm:9.0.2":
+  version: 9.0.2
+  resolution: "mobx-react@npm:9.0.2"
   dependencies:
     mobx-react-lite: "npm:^4.0.4"
   peerDependencies:
@@ -1461,7 +1461,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 349632c7078b9f314110418d1b4900bf6e3fe297675535b712ee347a072192e440b89cd6e04bab1b4cd6a23cbdb4c899b869898b8ec8af33018d762cefde17bf
+  checksum: a2c5aabb2caa80f505a43e58340646f6ea42a1e2a7607e529c18548f6baae077adf31261b1334725052a3c5c891ee0bb7bff2320049a0adc0427ed8fd2842aa8
   languageName: node
   linkType: hard
 
