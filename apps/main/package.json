@@ -1,6 +1,6 @@
 {
   "name": "@tsx-sandbox/main",
-  "packageManager": "yarn@4.0.1",
+  "packageManager": "yarn@4.0.2",
   "type": "module",
   "scripts": {
     "start": "vite",
