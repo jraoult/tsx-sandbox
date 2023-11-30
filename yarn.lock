@@ -604,7 +604,7 @@ __metadata:
     "@types/react": "npm:18.2.38"
     "@types/react-dom": "npm:18.2.17"
     "@vitejs/plugin-react-swc": "npm:3.5.0"
-    mobx: "npm:6.11.0"
+    mobx: "npm:6.12.0"
     mobx-react: "npm:9.1.0"
     mobx-utils: "npm:6.0.8"
     react: "npm:18.2.0"
@@ -1577,10 +1577,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx@npm:6.11.0":
-  version: 6.11.0
-  resolution: "mobx@npm:6.11.0"
-  checksum: 79e47e454ba9a0b947878dca62999cd1e8a1977309752873db7d9114ff6d27d807c4c978816e8cb665995e8b59ab0e64dcab5114d3dc578bffd9ffae8e7d846b
+"mobx@npm:6.12.0":
+  version: 6.12.0
+  resolution: "mobx@npm:6.12.0"
+  checksum: 18226d1120b0b21faf142c812f5e9dc670b03a3ad3fb868b9aeb9dffb72b7f0866591e50c3d07b79b01bdd4ca264b9843fb996a980b8bcb59f5a53597a8a2b90
   languageName: node
   linkType: hard
 
