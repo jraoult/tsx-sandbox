@@ -632,7 +632,7 @@ __metadata:
     "@types/react-dom": "npm:18.2.23"
     "@vitejs/plugin-react-swc": "npm:3.6.0"
     mobx: "npm:6.12.3"
-    mobx-react: "npm:9.1.0"
+    mobx-react: "npm:9.1.1"
     mobx-utils: "npm:6.0.8"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
@@ -1570,9 +1570,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-react-lite@npm:^4.0.4":
-  version: 4.0.4
-  resolution: "mobx-react-lite@npm:4.0.4"
+"mobx-react-lite@npm:^4.0.7":
+  version: 4.0.7
+  resolution: "mobx-react-lite@npm:4.0.7"
   dependencies:
     use-sync-external-store: "npm:^1.2.0"
   peerDependencies:
@@ -1583,15 +1583,15 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 10c0/e661e75b4e15e7cbe62754e44d943b85e30f2a8e253b7bd0458f25289ec1852d74ea68ec16bc1263c071678f3369d7a16a7c916ca00a43e4f31a5f7ef108faee
+  checksum: 10c0/175e190c5e6c35136ce2b8ef7e9ddeae68b180b585a907a891cd1781038c97eaad195ce9846b0f8e6fe87ac8bc005e31310003d1f7b402f81e460b9411d801d8
   languageName: node
   linkType: hard
 
-"mobx-react@npm:9.1.0":
-  version: 9.1.0
-  resolution: "mobx-react@npm:9.1.0"
+"mobx-react@npm:9.1.1":
+  version: 9.1.1
+  resolution: "mobx-react@npm:9.1.1"
   dependencies:
-    mobx-react-lite: "npm:^4.0.4"
+    mobx-react-lite: "npm:^4.0.7"
   peerDependencies:
     mobx: ^6.9.0
     react: ^16.8.0 || ^17 || ^18
@@ -1600,7 +1600,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 10c0/97efa54b6c954b58f8c19497d6a773b2b90ba0456e74bcdd16ec2116a6ced1a2734a9fdc14cfd57f3905d3fef90930ae9ed886542e2460762a7e3bf168fe41db
+  checksum: 10c0/77ced87e1657c949e73ff0386ce50b90c53ef4ced36c9cca53dfad693a3e13bc5690c513b855eb486c558191d7a05ee953e73c593054e915ee016fc4516310f8
   languageName: node
   linkType: hard
 
