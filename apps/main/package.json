@@ -11,7 +11,7 @@
     "@tsx-sandbox/ts-config": "workspace:^",
     "@types/react": "18.3.2",
     "@types/react-dom": "18.3.0",
-    "@vitejs/plugin-react-swc": "3.6.0",
+    "@vitejs/plugin-react-swc": "3.7.0",
     "typescript": "5.4.5",
     "vite": "5.2.11"
   },
