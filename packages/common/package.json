@@ -1,6 +1,6 @@
 {
   "name": "@tsx-sandbox/common",
-  "packageManager": "yarn@4.5.2",
+  "packageManager": "yarn@4.5.3",
   "type": "module",
   "devDependencies": {
     "@tsx-sandbox/ts-config": "workspace:^"
