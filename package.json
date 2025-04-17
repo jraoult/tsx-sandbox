@@ -1,6 +1,6 @@
 {
   "name": "tsx-sandbox",
-  "packageManager": "yarn@4.9.0",
+  "packageManager": "yarn@4.9.1",
   "workspaces": [
     "apps/*",
     "packages/*"
