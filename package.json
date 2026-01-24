@@ -10,6 +10,6 @@
     "test": "yarn workspace @tsx-sandbox/main build"
   },
   "devDependencies": {
-    "prettier": "3.8.0"
+    "prettier": "3.8.1"
   }
 }
