@@ -1,6 +1,11 @@
-import react from "@vitejs/plugin-react-swc";
+import { tanstackStart } from "@tanstack/react-start/plugin/vite";
+import viteReact from "@vitejs/plugin-react";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  plugins: [react({ jsxImportSource: "@emotion/react" })],
+  server: { port: 3000 },
+  plugins: [
+    tanstackStart({ spa: { enabled: true } }),
+    viteReact({ jsxImportSource: "@emotion/react" }),
+  ],
 });

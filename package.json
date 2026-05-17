@@ -6,10 +6,10 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "yarn workspace @tsx-sandbox/main vite",
+    "start": "yarn workspace @tsx-sandbox/main start",
     "test": "yarn workspace @tsx-sandbox/main build",
     "check:ts": "yarn workspaces foreach --all run check:ts",
-    "check:format": "prettier --write ."
+    "check:format": "prettier --check ."
   },
   "devDependencies": {
     "prettier": "3.8.3"
