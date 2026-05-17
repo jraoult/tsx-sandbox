@@ -1,13 +1,17 @@
 name: CI
-on: [ push, workflow_dispatch ]
+on: [push, workflow_dispatch]
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - run: corepack enable
       - uses: actions/setup-node@v6
         with:
-          node-version: '24'
-          cache: 'yarn'
+          node-version-file: ".nvmrc"
+          cache: yarn
       - run: yarn install
+      - run: yarn check:ts
       - run: yarn test
