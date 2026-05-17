@@ -1,7 +1,7 @@
 {
-  "extends": ["config:base"],
+  "extends": ["config:recommended"],
   "dependencyDashboard": true,
   "automerge": true,
-  "stabilityDays": 3,
+  "minimumReleaseAge": "3 days",
   "labels": ["dependencies"]
 }
