@@ -7,7 +7,9 @@
   ],
   "scripts": {
     "start": "yarn workspace @tsx-sandbox/main vite",
-    "test": "yarn workspace @tsx-sandbox/main build"
+    "test": "yarn workspace @tsx-sandbox/main build",
+    "check:ts": "yarn workspaces foreach --all run check:ts",
+    "check:format": "prettier --write ."
   },
   "devDependencies": {
     "prettier": "3.8.3"

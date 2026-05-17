@@ -526,6 +526,7 @@ __metadata:
   resolution: "@tsx-sandbox/common@workspace:packages/common"
   dependencies:
     "@tsx-sandbox/ts-config": "workspace:^"
+    typescript: "npm:6.0.3"
   languageName: unknown
   linkType: soft
 

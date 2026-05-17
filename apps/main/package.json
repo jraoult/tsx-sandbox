@@ -5,7 +5,8 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "test": "yarn build"
+    "test": "yarn build",
+    "check:ts": "tsc --noEmit"
   },
   "devDependencies": {
     "@tsx-sandbox/ts-config": "workspace:^",

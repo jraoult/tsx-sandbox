@@ -1,0 +1,10 @@
+.build/
+.idea
+.run
+.flan
+.yarn
+.pgdata
+.turbo
+.junie
+
+/cache/
