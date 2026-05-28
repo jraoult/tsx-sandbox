@@ -1003,7 +1003,7 @@ __metadata:
     "@types/react-dom": "npm:19.2.3"
     "@vitejs/plugin-react": "npm:6.0.2"
     mobx: "npm:6.15.4"
-    mobx-react: "npm:9.2.1"
+    mobx-react: "npm:9.2.2"
     mobx-utils: "npm:6.1.1"
     react: "npm:19.2.6"
     react-dom: "npm:19.2.6"
@@ -2200,9 +2200,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-react@npm:9.2.1":
-  version: 9.2.1
-  resolution: "mobx-react@npm:9.2.1"
+"mobx-react@npm:9.2.2":
+  version: 9.2.2
+  resolution: "mobx-react@npm:9.2.2"
   dependencies:
     mobx-react-lite: "npm:^4.1.1"
   peerDependencies:
@@ -2213,7 +2213,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 10c0/5cf4b1625a9682f4a67eec1f13a5f5ca8a022c02df2cbb3f5809d4b45e47a09288644aac76b97c0b60253dd230826da9e78835411e054dd9a40cc62053cf4f49
+  checksum: 10c0/f2aeb194d1b3f405d1f4f89164cf004b38575fb004f0d4cbb7219927bac47ecc0c668521b24406b78f6d1ec71ac39bd6ae02b7b7dc2762188508888b4fb2a1c7
   languageName: node
   linkType: hard
 
