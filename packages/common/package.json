@@ -1,6 +1,6 @@
 {
   "name": "@tsx-sandbox/common",
-  "packageManager": "yarn@4.16.0",
+  "packageManager": "yarn@4.17.0",
   "type": "module",
   "scripts": {
     "check:ts": "tsc --noEmit"
