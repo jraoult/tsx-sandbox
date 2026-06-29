@@ -12,6 +12,6 @@
     "check:format": "prettier --check ."
   },
   "devDependencies": {
-    "prettier": "3.8.4"
+    "prettier": "3.8.5"
   }
 }
