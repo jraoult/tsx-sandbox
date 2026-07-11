@@ -1,6 +1,6 @@
 {
   "name": "@tsx-sandbox/ts-config",
-  "packageManager": "yarn@4.17.0",
+  "packageManager": "yarn@4.17.1",
   "exports": {
     "./*": "./*"
   }
