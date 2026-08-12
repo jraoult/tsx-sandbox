@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
-    "@tanstack/react-router": "1.170.24",
-    "@tanstack/react-start": "1.168.41",
+    "@tanstack/react-router": "1.170.25",
+    "@tanstack/react-start": "1.168.42",
     "mobx": "7.0.0",
     "mobx-react": "10.0.0",
     "mobx-utils": "6.1.1",
