@@ -22,7 +22,7 @@
     "@emotion/react": "11.14.0",
     "@tanstack/react-router": "1.170.38",
     "@tanstack/react-start": "1.168.57",
-    "mobx": "7.0.3",
+    "mobx": "7.0.4",
     "mobx-react": "10.0.2",
     "mobx-utils": "6.1.1",
     "react": "19.3.0",
