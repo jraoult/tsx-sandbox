@@ -1084,7 +1084,7 @@ __metadata:
     "@types/react-dom": "npm:19.3.0"
     "@vitejs/plugin-react": "npm:6.1.2"
     mobx: "npm:7.1.2"
-    mobx-react: "npm:10.0.2"
+    mobx-react: "npm:10.0.3"
     mobx-utils: "npm:6.1.1"
     react: "npm:19.3.1"
     react-dom: "npm:19.3.1"
@@ -2381,25 +2381,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx-react-lite@npm:^5.0.3":
-  version: 5.0.3
-  resolution: "mobx-react-lite@npm:5.0.3"
+"mobx-react-lite@npm:^5.1.2":
+  version: 5.1.2
+  resolution: "mobx-react-lite@npm:5.1.2"
   peerDependencies:
     mobx: ^7.0.0
     react: ^18 || ^19
-  checksum: 10c0/e648585b93d5a2ee94e13ebefab3267f1be2c1d60fcca1bbc1fac33e4bf73881e846fbe83d0a33a5cce4adb6726a5f6ac196f035cd0d4d2ce103759b7c356dd1
+  checksum: 10c0/801f0a02758a0fa94fbe9c11685b5d0d4a4859a5e4eed21329f179b4b60babb171fe1e8292296e28a99218aac9db985f8c7cd3acff8379ca91a8ff7dcc0b430b
   languageName: node
   linkType: hard
 
-"mobx-react@npm:10.0.2":
-  version: 10.0.2
-  resolution: "mobx-react@npm:10.0.2"
+"mobx-react@npm:10.0.3":
+  version: 10.0.3
+  resolution: "mobx-react@npm:10.0.3"
   dependencies:
-    mobx-react-lite: "npm:^5.0.3"
+    mobx-react-lite: "npm:^5.1.2"
   peerDependencies:
     mobx: ^7.0.0
     react: ^18 || ^19
-  checksum: 10c0/2c6b300f54530d0a66691a2ccff7f7f19db3fe2044ffa46572ea5c5a9386442344f67872737ece029ff4aef81f03fd0e21d10e94f8fd208dd9d42a4b480124e3
+  checksum: 10c0/e31e91e5aa31d3e6804243f17ee957222dd7468b639baa8ca0259d979c881792c9a433deb548706ed3eed86e73972c18f71427b8efb7871e7f1f3bb40c885a95
   languageName: node
   linkType: hard
 
