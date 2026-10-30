@@ -1083,7 +1083,7 @@ __metadata:
     "@types/react": "npm:19.3.0"
     "@types/react-dom": "npm:19.3.0"
     "@vitejs/plugin-react": "npm:6.1.2"
-    mobx: "npm:7.1.1"
+    mobx: "npm:7.1.2"
     mobx-react: "npm:10.0.2"
     mobx-utils: "npm:6.1.1"
     react: "npm:19.3.1"
@@ -2412,10 +2412,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx@npm:7.1.1":
-  version: 7.1.1
-  resolution: "mobx@npm:7.1.1"
-  checksum: 10c0/9db4cc5b86790347f4c9fb8d4032b64c7083274169a2089ac737a521f46cbcb6b5a6e27d366f09b1e9a5d8b7b6832fa64dafe566d6b3a1f553936a177fefc007
+"mobx@npm:7.1.2":
+  version: 7.1.2
+  resolution: "mobx@npm:7.1.2"
+  checksum: 10c0/66c77085138a96821207b55247503fad4a40b0ae9b0fdbbb97c2d6e7454e39b4b39d401b7a94bded80dbc19679b75508bf525c023234d4d1a4f79899b6b32dec
   languageName: node
   linkType: hard
 
